@@ -185,7 +185,7 @@ eo:
     UnableDeleteInstall: 'Ne eblas forigi instalajn dosierojn. Bonvolu mane forigi la jenajn dosierojn'
     VIEWPAGEIN: 'Vidigi Paĝon en:'
   ErrorPage:
-    CODE: 'Eraro kodo'
+    CODE: 'Erarokodo'
     DEFAULTERRORPAGECONTENT: '<p>Bedaŭrinde ŝajne vi provis aliri paĝon kiu ne ekzistas.</p><p>Bonvole kontrolu la literumadon de la URL alirota kaj provu denove.</p>'
     DEFAULTERRORPAGETITLE: 'Ne trovis paĝon'
     DEFAULTSERVERERRORPAGECONTENT: '<p>Bedaŭrinde, estis problemo pri via peto.</p>'
@@ -297,10 +297,10 @@ eo:
     ADDEDTODRAFTSHORT: Malneto
     ALLOWCOMMENTS: 'Permesi rimarkojn en ĉi tiu paĝo?'
     APPEARSVIRTUALPAGES: 'Ĉi tiu enhavo ankaŭ aperas en la virtualaj paĝoj en la sekcioj {title}.'
-    BUTTONCANCELDRAFT: 'Nuligu projekton ŝanĝojn'
-    BUTTONCANCELDRAFTDESC: 'Forigu vian projekton kaj reven al la aktuale eldon paĝo'
+    BUTTONCANCELDRAFT: 'Nuligi projektajn ŝanĝojn'
+    BUTTONCANCELDRAFTDESC: 'Forigi vian projekton kaj reveni al la aktuale eldonita paĝo'
     BUTTONSAVEPUBLISH: 'Konservi kaj Publikigi'
-    BUTTONUNPUBLISH: Maleldonu
+    BUTTONUNPUBLISH: Maleldoni
     BUTTONUNPUBLISHDESC: 'Forigi ĉi tiun paĝon de la publikigita retejo'
     CREATED: 'Dato de kreo'
     Comments: Komentoj
@@ -313,7 +313,7 @@ eo:
     DEFAULTHOMETITLE: Hejmo
     DELETEDPAGEHELP: 'Paĝo ne plu estas publikigita'
     DELETEDPAGESHORT: Forigita
-    DEPENDENT_NOTE: 'La sekvaj paĝoj dependas de ĉi tiu paĝo. Tio inkluzivas virtualajn paĝojn, alidirektaj paĝoj, kaj paĝoj kun enhavaj ligiloj.'
+    DEPENDENT_NOTE: 'La sekvaj paĝoj dependas de ĉi tiu paĝo. Tio inkluzivas virtualajn paĝojn, alidirektajn paĝojn, kaj paĝojn kun enhavaj ligiloj.'
     DESCRIPTION: 'Ĝenerala paĝo por enhavo'
     DependtPageColumnLinkType: 'Ligila tipo'
     DependtPageColumnURL: URL
@@ -329,7 +329,7 @@ eo:
     INHERIT: 'Heredi de patra paĝo'
     LASTUPDATED: 'Lastfoje ĝisdatigita'
     LINKCHANGENOTE: 'Ŝanĝi la ligilon de ĉi tiu paĝo ankaŭ influas la ligilojn de ĉiuj idaj paĝoj.'
-    MENUTITLE: 'Navigado etikedo'
+    MENUTITLE: 'Navigada etikedo'
     METADESC: Priskribo
     METADESCHELP: 'Serĉiloj uzas ĉi tiun enhavon por vidigi serĉajn rezultojn (kvankam ĝi ne influos ilian rangon).'
     METAEXTRA: 'Propraj Meta-etikedoj '
@@ -343,12 +343,12 @@ eo:
     PAGETYPE: 'Tipo de paĝo'
     PARENTID: 'Praa paĝo'
     PARENTTYPE: 'Situo de paĝo'
-    PARENTTYPE_ROOT: 'Supronivela paĝo'
+    PARENTTYPE_ROOT: 'Supranivela paĝo'
     PARENTTYPE_SUBPAGE: 'Subpaĝo sub patra paĝo (elektu sube)'
     PERMISSION_GRANTACCESS_DESCRIPTION: 'Regi kiuj grupoj povas aliri aŭ redakti specifajn paĝojn'
     PERMISSION_GRANTACCESS_HELP: 'Permesi agordi paĝspecifajn alirajn limigojn en la sekcio "Paĝoj".'
     PLURALNAME: Paĝoj
-    PageTypNotAllowedOnRoot: 'Paĝa tipo "{type}" ne estas permesita ĉe la root-nivelo'
+    PageTypNotAllowedOnRoot: 'Paĝa tipo "{type}" ne estas permesita ĉe la radiko-nivelo'
     PageTypeNotAllowed: 'Paĝa tipo "{type}" ne estas permesita kiel ido de ĉi tiu praa paĝo'
     REMOVEDFROMDRAFTHELP: 'Paĝo estas publikigita, sed ĝi estas forigita el malneto'
     REMOVEDFROMDRAFTSHORT: 'Forigita el malneta'
@@ -405,6 +405,6 @@ eo:
     DESCRIPTION: 'Vidigi la enhavon de alia paĝo'
     EDITCONTENT: 'klaku ĉi tie redakti la enhavon'
     HEADER: 'Ĉi tiu estas virtuala paĝo'
-    PLURALNAME: 'Virtual Pags'
+    PLURALNAME: 'Virtualaj paĝoj'
     PageTypNotAllowedOnRoot: 'Origina paĝa tipo "{type}" ne estas permesita ĉe la root-nivelo por ĉi tiu virtuala paĝo.'
     SINGULARNAME: 'Virtuala paĝo'
